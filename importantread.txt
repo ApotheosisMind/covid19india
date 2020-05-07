@@ -1,0 +1,6 @@
+hello guys,
+I found a error:
+when you move your mouse to left navgation bar, the old ui comes when hovered it.
+kindly check that.
+you could set the screen positon to relative so when you hover over it everything changes automatically, and you dont have to change that again and again.
+thank you for creating website.
